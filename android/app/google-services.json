@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27466292763",
+    "project_id": "isar-firebase-sync-1980",
+    "storage_bucket": "isar-firebase-sync-1980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27466292763:android:d2b3598b6966968feee2be",
+        "android_client_info": {
+          "package_name": "com.anirudhmpai.isar_firebase_sync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27466292763-u6h4mf8o92kfi1mt8fagg2uubnu1o28q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6YnwMch5X7VRZegIV7DO_VzgKRaZ0ZuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27466292763-u6h4mf8o92kfi1mt8fagg2uubnu1o28q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
