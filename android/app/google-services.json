@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "27466292763",
-    "project_id": "isar-firebase-sync-1980",
-    "storage_bucket": "isar-firebase-sync-1980.appspot.com"
+    "project_number": "1029716409930",
+    "project_id": "isar-firebase-sync",
+    "storage_bucket": "isar-firebase-sync.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:27466292763:android:d2b3598b6966968feee2be",
+        "mobilesdk_app_id": "1:1029716409930:android:355a618d3c14510ee5f0b3",
         "android_client_info": {
           "package_name": "com.anirudhmpai.isar_firebase_sync"
         }
       },
       "oauth_client": [
         {
-          "client_id": "27466292763-u6h4mf8o92kfi1mt8fagg2uubnu1o28q.apps.googleusercontent.com",
+          "client_id": "1029716409930-mvvcn0ohdhgvu0a7mip59sd75gt0vc8c.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA6YnwMch5X7VRZegIV7DO_VzgKRaZ0ZuA"
+          "current_key": "AIzaSyCwNE09kB8LCjzKefuW37NiOVag-SY4Io4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "27466292763-u6h4mf8o92kfi1mt8fagg2uubnu1o28q.apps.googleusercontent.com",
+              "client_id": "1029716409930-mvvcn0ohdhgvu0a7mip59sd75gt0vc8c.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1029716409930-nd9h3ju6rr83ji3t7mfejmrh525ib53b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anirudhmpai.isarFirebaseSync"
+              }
             }
           ]
         }
